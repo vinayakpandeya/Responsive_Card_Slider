@@ -4,3 +4,5 @@ Today, I designed a responsive card slider that displays images along with text.
 
 Check out my project on GitHub and feel free to share your thoughts!
 Github Link- https://lnkd.in/gNxJzwZG
+
+![image alt](https://github.com/vinayakpandeya/Responsive_Card_Slider/blob/ce000915f60a6b96d8f395c076e8c9304b134c0e/My%20Image.png) 
