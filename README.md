@@ -6,3 +6,4 @@ Check out my project on GitHub and feel free to share your thoughts!
 Github Link- https://lnkd.in/gNxJzwZG
 
 ![image](https://github.com/user-attachments/assets/4c4084cb-14ba-45f1-ba86-135be56afa12)
+![image](https://github.com/vinayakpandeya/Responsive_Card_Slider/blob/f9c5fe1a554b276359b568509f5f305d118cc165/1.jpg)
