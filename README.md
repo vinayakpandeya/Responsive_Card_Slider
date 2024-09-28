@@ -1,4 +1,4 @@
-Day 8 of Web Development Practice 🎉
+Day 8 Responsive Card Slider  Practice 🎉
 
 Today, I designed a responsive card slider that displays images along with text. You can find these types of sliders on many websites, such as e-commerce and online food delivery platforms. They help create a smooth and visually appealing user experience.
 
